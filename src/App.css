@@ -1,0 +1,24 @@
+.containerCalculator {
+  width: 200px;
+  border: 2px solid black;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.displayed {
+  margin: 10px;
+  width: 175px;
+  font-size: 25px;
+}
+
+.btnCal {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
